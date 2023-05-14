@@ -1,8 +1,10 @@
 ## TATA's Todo-List
 
-### 배포 링크 : https://tata-v.github.io/react-todolist-redux/
+Todo 관리를 위한 Todo-List
 
-### 스토리북 링크: https://tata-v.github.io/todolist-storybook-typescript/?path=/story/main-adcbutton--primary
+### 🔗 배포 링크 : https://tata-v.github.io/react-todolist-redux/
+
+### 📔 스토리북 링크: https://tata-v.github.io/todolist-storybook-typescript/?path=/story/main-adcbutton--primary
 
 ---
 
