@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/todolist-storybook-typescript/static/css/main.14048e1c.css",
+    "main.js": "/todolist-storybook-typescript/static/js/main.2433aebf.js",
+    "static/media/page-bg.png": "/todolist-storybook-typescript/static/media/page-bg.164cced9a60cb5f08e4a.png",
+    "static/media/appear-bt21.svg": "/todolist-storybook-typescript/static/media/appear-bt21.4d76c6daa27990e1ce23b8fe88ab2bfb.svg",
+    "static/media/appear-wish.svg": "/todolist-storybook-typescript/static/media/appear-wish.e7ed1c8c8eb43b586060bdb01008efcc.svg",
+    "static/media/page-bg-2.png": "/todolist-storybook-typescript/static/media/page-bg-2.057383354a48a3937cad.png",
+    "static/media/appear-wish-tata.svg": "/todolist-storybook-typescript/static/media/appear-wish-tata.8739787fe1a2eed38a1ab9ded9715700.svg",
+    "static/media/appear-profile.svg": "/todolist-storybook-typescript/static/media/appear-profile.ef9c1ec27527260e162daa1e196d8f4b.svg",
+    "static/media/icomoon.svg?z6t3zy": "/todolist-storybook-typescript/static/media/icomoon.23efaf9be90c5838675e.svg",
+    "static/media/icomoon.eot?z6t3zy": "/todolist-storybook-typescript/static/media/icomoon.fdc240414b654a72d693.eot",
+    "static/media/icomoon.woff?z6t3zy": "/todolist-storybook-typescript/static/media/icomoon.d526d68dd9b160bd189a.woff",
+    "static/media/icomoon.ttf?z6t3zy": "/todolist-storybook-typescript/static/media/icomoon.3c738a1dc3ebe021df51.ttf",
+    "static/media/logo.svg": "/todolist-storybook-typescript/static/media/logo.7c04a79cee69b7ce5704a83283b7c050.svg",
+    "static/media/smile-icon.svg": "/todolist-storybook-typescript/static/media/smile-icon.f3640b0d2948b1939567b06e8fe2c7b2.svg",
+    "static/media/plus-icon-shadow.svg": "/todolist-storybook-typescript/static/media/plus-icon-shadow.8d97008aafe6f3fcda709e2eaed0ac63.svg",
+    "static/media/bt21-img.svg": "/todolist-storybook-typescript/static/media/bt21-img.a2cefe279a4f4f8185377940a45ceb00.svg",
+    "index.html": "/todolist-storybook-typescript/index.html",
+    "static/media/trash-icon.svg": "/todolist-storybook-typescript/static/media/trash-icon.663640ad7d4299f0c903527b50c566ac.svg",
+    "static/media/profile-img.svg": "/todolist-storybook-typescript/static/media/profile-img.9a9fc89109966bdbe39a1960d345ec32.svg",
+    "main.14048e1c.css.map": "/todolist-storybook-typescript/static/css/main.14048e1c.css.map",
+    "main.2433aebf.js.map": "/todolist-storybook-typescript/static/js/main.2433aebf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14048e1c.css",
+    "static/js/main.2433aebf.js"
+  ]
+}
